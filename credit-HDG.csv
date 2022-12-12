@@ -1,0 +1,15 @@
+Catatan_kredit,Utang,Jaminan,Pendapatan,Risiko
+buruk,rendah,tidak_ada,0-15,tinggi
+tidak_diketahui,tinggi,tidak_ada,15-35,tinggi
+tidak_diketahui,rendah,tidak_ada,15-35,rendah
+buruk,rendah,tidak_ada,0-15,tinggi
+tidak_diketahui,rendah,ada,>35,rendah
+tidak_diketahui,rendah,tidak_ada,>35,rendah
+tidak_diketahui,tinggi,tidak_ada,0-15,tinggi
+buruk,rendah,ada,>35,tinggi
+baik,rendah,tidak_ada,>35,rendah
+baik,tinggi,ada,>35,rendah
+baik,tinggi,tidak_ada,0-15,tinggi
+baik,tinggi,tidak_ada,15-35,tinggi
+baik,tinggi,tidak_ada,>35,rendah
+buruk,tinggi,tidak_ada,15-35,tinggi
